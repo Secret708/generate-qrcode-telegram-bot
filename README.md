@@ -1,1 +1,15 @@
-# generate-qrcode-telegram-bot
+# generate-qrcode-telegram-bot\
+
+Бот для генерации QR-кодов
+
+Технологии:
+
+aiogram (для взаимодействия с Telegram Bot API)
+
+asyncio (для асинхронного запуска бота)
+
+time (для записи времени в названии файлов)
+
+qrcode (для генерации qr-кодов)
+
+dotenv и os (для загрузки токена из виртуального окружения)
